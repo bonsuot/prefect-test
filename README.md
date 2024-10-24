@@ -1,6 +1,8 @@
 # prefect-test
 testing prefect deployment
 
+https://docs.prefect.io/3.0/get-started/quickstart
+
 # successful deployment test
 ![image](https://github.com/user-attachments/assets/fb9e4cb0-dc83-4c4b-bd17-704646ce8f1e)
 
